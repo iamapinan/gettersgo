@@ -1,0 +1,28 @@
+{
+  "name": "gettersgo.com",
+  "version": "1.0.0",
+  "description": "website under development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamapinan/gettersgo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamapinan/gettersgo/issues"
+  },
+  "homepage": "https://github.com/iamapinan/gettersgo#readme",
+  "dependencies": {
+    "firebase": "^9.6.6"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.23"
+  }
+}
